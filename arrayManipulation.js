@@ -14,7 +14,7 @@ function processArray(arr) {
       }
     });
   }
-  const stringArray = ['the ', 'best country ', 'in the world'];
-  const numberArray = [3, 6, 9]; // Assuming this is the output from processArray
+  const stringArray = ['God  ', 'bless ', 'you'];
+  const numberArray = [6, 3, 9]; // Assuming this is the output from processArray
   const formattedArray = formatArrayStrings(stringArray, numberArray);
   console.log(formattedArray); // Output: ['the ', 'BEST COUNTRY ', 'in the world']
