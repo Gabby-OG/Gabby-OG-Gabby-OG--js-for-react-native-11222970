@@ -17,4 +17,4 @@ function processArray(arr) {
   const stringArray = ['God  ', 'bless ', 'you'];
   const numberArray = [6, 3, 9]; 
   const formattedArray = formatArrayStrings(stringArray, numberArray);
-  console.log(formattedArray); // Output: ['the ', 'BEST COUNTRY ', 'in the world']
+  console.log(formattedArray); // Output: [ 'GOD  ', 'bless ', 'you' ]
